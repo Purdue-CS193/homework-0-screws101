@@ -17,6 +17,8 @@ Syntax highlighted code block
 
 - My teachers are cool
 - The homework is easy
+- The slides are neat
+- I learn cool stuff
 
 1. Look at this Numbered List
 2. Very Cool Numbered List
