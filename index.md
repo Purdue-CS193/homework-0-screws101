@@ -18,8 +18,8 @@ Syntax highlighted code block
 - My teachers are cool
 - The homework is easy
 
-1. Numbered
-2. List
+1. Look at this Numbered List
+2. Very Cool Numbered List
 
 **Bold** and _Italic_ and `Code` text
 
